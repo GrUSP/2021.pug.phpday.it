@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phpday PUG Edition</title>
-    <link>https://phpday.teomiscia.com/</link>
+    <link>https://pug.phpday.it/</link>
     <description>Recent content on phpday PUG Edition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="https://phpday.teomiscia.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pug.phpday.it/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
