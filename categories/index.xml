@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on phpday PUG Edition 2021</title>
-    <link>https://pug.phpday.it/categories/</link>
+    <link>https://2021.pug.phpday.it/categories/</link>
     <description>Recent content in Categories on phpday PUG Edition 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language><atom:link href="https://pug.phpday.it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-it</language><atom:link href="https://2021.pug.phpday.it/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
